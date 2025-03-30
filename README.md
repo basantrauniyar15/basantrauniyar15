@@ -50,7 +50,7 @@
 ### **📬 Contact & Socials**
 💼 **LinkedIn:** [basantrauniyar](https://www.linkedin.com/in/basantrauniyar/)  
 🐱 **GitHub:** [basantrauniyar15](https://github.com/basantrauniyar15)  
-✉️ **Email:** *YourEmail@domain.com*  
+✉️ **Email:** [basantrauniyar15@gmail.com](mailto:basantrauniyar15@gmail.com)  
 
 ---
 
