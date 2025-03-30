@@ -35,9 +35,6 @@
 - [**Friday Voice Assistant**](https://github.com/basantrauniyar15/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
 
 ---
-
-## ⚙️ Tech Stack & Tools  
-
 ## ⚙️ Tech Stack & Tools  
 
 ### 🚀 Programming & Frameworks  
