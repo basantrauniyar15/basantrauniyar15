@@ -30,7 +30,7 @@
 ### 🔑 Authentication & Secure Login Systems
 - [**SecureLogin**](https://github.com/basantrauniyar15/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask) – Multi-Factor Authentication (MFA) System  
 
-### 🗣 AI Assistants & Chatbots
+### 🗣 Automation & Smart Assistants
 - [**PatanHelper**](https://github.com/basantrauniyar15/PatanHelper) – Hospital Information Chatbot  
 - [**Friday Voice Assistant**](https://github.com/basantrauniyar15/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
 
