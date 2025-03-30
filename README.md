@@ -1,4 +1,4 @@
-echo "# 👋 **Hi, I'm Basant Rauniyar!**  
+# 👋 **Hi, I'm Basant Rauniyar!**  
 
 🔹 Passionate about **Machine Learning, Cybersecurity, Ethical Hacking, and AI-based automation.**  
 🔹 I develop **AI-powered applications, security tools, and innovative solutions** to real-world problems.  
@@ -40,10 +40,3 @@ echo "# 👋 **Hi, I'm Basant Rauniyar!**
 🚀 **I love working on AI-powered solutions and security-based applications!**  
 
 ---
-
-### **How to Make It Visible on Your GitHub Profile?**  
-1. Create a new repository named **\`basantrauniyar15\`** (same as your GitHub username).  
-2. Add this \`README.md\` file to that repository.  
-3. GitHub will automatically display it as your **profile overview.**  
-
-This setup will make your profile **professional, structured, and visually appealing!** 🚀" > README.md
