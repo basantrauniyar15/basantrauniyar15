@@ -41,10 +41,16 @@
 **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)**  
 
 ### 🤖 Machine Learning & AI  
-**![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)**  
+**![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)**  
 
 ### 🔐 Security & Authentication  
-**![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=hackthebox&logoColor=white)  ![Web Security](https://img.shields.io/badge/Web%20Security-FF5733?style=for-the-badge&logo=web-security&logoColor=white)**  
+**![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232F3E?style=for-the-badge&logo=hackthebox&logoColor=white)  ![Web Security](https://img.shields.io/badge/Web%20Security-FF5733?style=for-the-badge&logo=web-security&logoColor=white)  ![Cryptography](https://img.shields.io/badge/Cryptography-6A1B9A?style=for-the-badge&logo=security&logoColor=white)**  
+
+### 🌐 Browser Extensions & Automation  
+**![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Puppeteer](https://img.shields.io/badge/Puppeteer-40A4C3?style=for-the-badge&logo=puppeteer&logoColor=white)**  
+
+### 🤖 Conversational AI & Automation  
+**![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)  ![Natural Language Processing](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge&logo=ai&logoColor=white)**  
 
 ### 📡 APIs & Databases  
 **![REST APIs](https://img.shields.io/badge/RESTful%20APIs-008000?style=for-the-badge&logo=api&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**  
