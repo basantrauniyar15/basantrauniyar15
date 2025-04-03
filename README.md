@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Machine Learning Enthusiast | Cybersecurity Learner</h3>
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=basantrauniyar15&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
