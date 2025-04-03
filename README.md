@@ -71,4 +71,4 @@
 ---
 
 ⭐ **Feel free to explore my repositories and connect with me!**  
-<h3 align="center">🚀 **Always learning, building, and improving!** 
+🚀 **Always learning, building, and improving!** 
