@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Basant Rauniyar</h1>
-<h3 align="center">🎓 B.Tech Student | Software Development | ML & Cybersecurity Enthusiast</h3>
+<h3 align="center">🎓 B.Tech Student | Future Software Developer | ML & Cybersecurity Enthusiast</h3>
 
 ---
 <p align="left">
