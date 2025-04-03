@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Basant Rauniyar</h1>
 <h3 align="center">Software Developer | Machine Learning Enthusiast | Cybersecurity Learner</h3>
 
-<p align="center">
-  <img src="https://your-image-link.com" alt="Basant Rauniyar Banner" width="100%" />
-</p>
-
 ---
 
 ## 🔹 About Me
@@ -12,13 +8,6 @@
 - 🚀 Experienced in **Python, Flask, ML/DL, and Secure Systems**  
 - 🎯 Currently exploring **AI-driven security & automation solutions**  
 - 🔍 Always learning and building **real-world projects**  
-
----
-
-## 🔥 What I'm Currently Working On  
-- 🚀 **Building a Secure AI-Powered Authentication System**  
-- 🔍 **Exploring Ethical Hacking Techniques**  
-- 🏗 **Developing Real-World ML Applications**  
 
 ---
 
@@ -46,7 +35,6 @@
 - [**Friday Voice Assistant**](https://github.com/basantrauniyar15/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
 
 ---
-
 ## ⚙️ Tech Stack & Tools  
 
 ### 🚀 Programming & Frameworks  
@@ -61,6 +49,9 @@
 ### 🌐 Browser Extensions & Automation  
 **![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)**  
 
+### 🤖 Conversational AI & Automation  
+**![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white)  ![Natural Language Processing](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge&logo=ai&logoColor=white)**  
+
 ### 📡 APIs & Databases  
 **![REST APIs](https://img.shields.io/badge/RESTful%20APIs-008000?style=for-the-badge&logo=api&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**  
 
@@ -69,36 +60,12 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basantrauniyar15&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basantrauniyar15&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basantrauniyar15&layout=compact&theme=radical" />
-</p>
+## 📬 Contact & Socials  
+📧 **Email:** [basantrauniyar15@gmail.com](mailto:basantrauniyar15@gmail.com)  
+💼 **LinkedIn:** [basantrauniyar](https://www.linkedin.com/in/basantrauniyar/)  
+🐱 **GitHub:** [basantrauniyar15](https://github.com/basantrauniyar15)  
 
 ---
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basantrauniyar15&theme=radical&no-frame=false&no-bg=true" />
-</p>
-
----
-
-## 🚀 Let's Connect!  
-<p align="center">
-  <a href="https://linkedin.com/in/basantrauniyar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:basantrauniyar15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/basantrauniyar15">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💡 Fun Fact  
-🔥 I love breaking things (ethically) to understand how they work! 🚀  
+⭐ **Feel free to explore my repositories and connect with me!**  
+🚀 *Always learning, building, and improving!*  
