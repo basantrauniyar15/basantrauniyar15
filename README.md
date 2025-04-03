@@ -63,7 +63,7 @@
 
 ---
 
-## 📬 Contact & Socials  
+## 📬 Connect With Me 
 📧 **Email:** [basantrauniyar15@gmail.com](mailto:basantrauniyar15@gmail.com)  
 💼 **LinkedIn:** [basantrauniyar](https://www.linkedin.com/in/basantrauniyar/)  
 🐱 **GitHub:** [basantrauniyar15](https://github.com/basantrauniyar15)  
